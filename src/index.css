@@ -1,0 +1,20 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'MULISH';
+    src: url("/public/fonts/Mulish-ExtraBoldItalic.ttf")
+}
+
+
+.carArches {
+    src: url("/src/images/fountain.jpg")
+}
+
+.w-2screen {
+    width: 200vw;
+}
