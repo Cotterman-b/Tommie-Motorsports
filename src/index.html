@@ -7,34 +7,55 @@
     <link href="./index.css" rel="stylesheet">
     <script src="scripts.js"></script>
   </head>
-  <body class=" bg-fixed bg-center overscroll-none overflow-none font-sans">
-    <h1 class="z-10 absolute top-1/2">test</h1>
+
+  <body class=" bg-fixed bg-center overscroll-none overflow-x-clip font-sans">
     <div class = "overflow-hidden ">
-      <img src="images/fountain.jpg" class="fixed -ml-[screen] h-screen w-full aspect-video -z-10 object-cover ">
+      <img src="images/fountain.jpg" alt="Image of our car in front of the fountain at St. Thomas in St. Paul MN" class="fixed -ml-[screen] h-screen w-full aspect-video -z-50 object-cover ">
     </div>
-      <div class = "overflow-hidden ">
-        <img src="images/alpha.png" class="fixed -ml-[screen] h-screen w-full aspect-video z-20 object-cover ">
+      <div class = "overflow-hidden -z-30">
+        <img src="images/alpha.png" class="fixed -ml-[screen] h-screen w-full aspect-video -z-30 object-cover ">
       </div>
-      <div class="float-left text-black opacity-100 inline-block z-10 absolute top-4 left-2 w-1/2 ">
-          <h1 class="inline-block z-10 text-2xl sm:text-3xl md:text-4xl font-mulish max-w-[1/2] md:hidden ">TOMMIE MOTORSPORTS</h1>
+      <div class=" text-white opacity-100 inline-block z-10 absolute top-4 left-3 w-1/2 backdrop-brightness-35 backdrop-blur-md -skew-x-6 ">
+          <h1 class="inline-block z-10 text-xl sm:text-3xl md:text-4xl font-mulish max-w-[1/2] md:hidden m-2">TOMMIE MOTORSPORTS</h1>
       </div>
-      <div class="hidden md:inline-block absolute top-1/2 left-1/4 font-mulish text-primary -skew-x-12 backdrop-blur-md backdrop-brightness-35 pl-10">
+      <div class=" -z-40 hidden md:inline-block absolute top-1/2 left-[15%] font-mulish text-primary -skew-x-12 backdrop-blur-md backdrop-brightness-35 pl-10">
         <h1 class="text-9xl">UST</h1>
         <h1 class="text-8xl text-white float-left w-1/2">TOMMIE MOTORSPORTS</h1>
       </div>
-      <div class="md:hidden float-right pr-6">
+      <div class="md:hidden absolute top-3 right-12 pr-6">
         <svg viewBox="0 0 100 80" width="40" height="40">
-          <rect class = "fill-white" width="100" height="20" rx="8"></rect>
-          <rect class = "fill-white" y="30" width="100" height="20" rx="8"></rect>
-          <rect class = "fill-white" y="60" width="100" height="20" rx="8"></rect>
+          <rect class = "fill-black" width="100" height="20" rx="8"></rect>
+          <rect class = "fill-black" y="30" width="100" height="20" rx="8"></rect>
+          <rect class = "fill-black" y="60" width="100" height="20" rx="8"></rect>
       </svg>
       </div>
-      <div class="-skew-x-12 p-6 mr-6 backdrop-blur-xl backdrop-brightness-[0.45]  z-auto float-right hidden md:inline-block">
-        <ul class="inline text-white -skew-x-12 text-2xl">HOME</ul>
-        <ul class="inline text-white -skew-x-12 text-2xl">Hello2</ul>
+      <div class="-skew-x-12 p-6 mr-6  mt-6 fixed  right-0 backdrop-blur-xl backdrop-brightness-[0.45] hidden md:inline-block">
+        <ul class="inline text-white -skew-x-12 text-2xl ml-10">HOME</ul>
+        <ul class="inline text-white -skew-x-12 text-2xl ml-10">ABOUT US</ul>
+        <ul class="inline text-white -skew-x-12 text-2xl ml-10">BLOG</ul>
+        <ul class="inline text-white -skew-x-12 text-2xl ml-10">SPONSORS</ul>
+        <ul class="inline text-white -skew-x-12 text-2xl ml-10">GALLERY</ul>
       </div>
+      <br>
+      <!-- white part of site - scroll over image-->
+      <div class="inline-block w-full -z-30 mt-[105vh] bg-white shadow-[ 0_10px_10px_2px_#000000]">
+        <div class="grid gap-x-4 grid-cols-1 md:grid-cols-3 content-center">
+          <div class="content-center">
+              <p>1</p>
+          </div>
+          <div>
+            <p>2</p>
+        </div>
+        <div>
+          <p>3</p>
+        </div>
 
-    <h1 class="mt-[9000px]">hi</h1>
+        </div>
+      </div>
+     
+
+    
+
   </body>
 </html>
 

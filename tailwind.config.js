@@ -2,7 +2,10 @@
 const colors = require('tailwindcss/colors')
 
 module.exports = {
-  content: ["./src/**/*.{html,js,ts,jsx,tsx}"],
+  content: [
+    "./src/**/*.{html,js,ts,jsx,tsx}",
+    "./node_modules/flowbite/**/*.js"
+],
   theme: {
        
     extend: {
@@ -24,6 +27,7 @@ module.exports = {
         'mulish': [ 'MULISH', 'sans-serif']
       },
   },
-  plugins: [],
+  plugins: [
+  ],
 }
 

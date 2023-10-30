@@ -6,8 +6,8 @@
         "build": "parcel build"
     },
     "devDependencies": {
-        "parcel": "latest",
         "@tailwindcss/aspect-ratio": "^0.4.2",
+        "parcel": "latest",
         "postcss": "^8.4.31",
         "tailwindcss": "^3.3.5"
     }
