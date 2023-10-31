@@ -1,8 +1,8 @@
 1929
 75C:\Users\Benne\Music\parcel\node_modules\fast-glob\node_modules\glob-parent133428100226263342 1
 50C:\Users\Benne\Music\parcel\node_modules\is-number133428100229141084 1
-32C:\Users\Benne\Music\parcel\dist133428483608947392 1
-38C:\Users\Benne\Music\parcel\.postcssrc133427671308249905 0
+32C:\Users\Benne\Music\parcel\dist133428549132362241 1
+38C:\Users\Benne\Music\parcel\.postcssrc133428487780191832 0
 52C:\Users\Benne\Music\parcel\node_modules\fs.realpath133428100227742606 1
 69C:\Users\Benne\Music\parcel\node_modules\tailwindcss\lib\oxide\cli.js133427669638934235 0
 53C:\Users\Benne\Music\parcel\node_modules\sucrase\dist133428100238361637 1
@@ -49,7 +49,7 @@
 50C:\Users\Benne\Music\parcel\node_modules\lilconfig133428100229441045 1
 59C:\Users\Benne\Music\parcel\node_modules\fastq\package.json133427669637949009 0
 92C:\Users\Benne\Music\parcel\node_modules\yaml\browser\dist\compose\util-flow-indent-check.js133427669641212712 0
-42C:\Users\Benne\Music\parcel\src\index.html133428461341632073 0
+42C:\Users\Benne\Music\parcel\src\index.html133428506925239270 0
 69C:\Users\Benne\Music\parcel\node_modules\resolve\test\node_path\y\bbb133428100233971554 1
 85C:\Users\Benne\Music\parcel\node_modules\sucrase\dist\esm\transformers\Transformer.js133427669640952553 0
 49C:\Users\Benne\Music\parcel\node_modules\chokidar133428100225408141 1
@@ -1788,7 +1788,6 @@
 63C:\Users\Benne\Music\parcel\node_modules\concat-map\test\map.js133427669637929001 0
 84C:\Users\Benne\Music\parcel\node_modules\@jridgewell\set-array\dist\set-array.umd.js133427669637338638 0
 53C:\Users\Benne\Music\parcel\node_modules\chokidar\lib133428100225248166 1
-55C:\Users\Benne\Music\parcel\dist\index.2dc060e3.css.map133428483608937377 0
 59C:\Users\Benne\Music\parcel\node_modules\chokidar\README.md133427669638086371 0
 55C:\Users\Benne\Music\parcel\node_modules\chokidar\types133428100225428218 1
 74C:\Users\Benne\Music\parcel\node_modules\chokidar\node_modules\glob-parent133428100225388434 1
@@ -1805,7 +1804,6 @@
 60C:\Users\Benne\Music\parcel\node_modules\braces\package.json133427665541357847 0
 57C:\Users\Benne\Music\parcel\node_modules\braces\README.md133427665543159409 0
 64C:\Users\Benne\Music\parcel\node_modules\braces\lib\constants.js133427665543919804 0
-51C:\Users\Benne\Music\parcel\dist\index.2dc060e3.css133428483608917367 0
 61C:\Users\Benne\Music\parcel\node_modules\braces\lib\expand.js133427665544174155 0
 60C:\Users\Benne\Music\parcel\node_modules\braces\lib\parse.js133427665544510657 0
 60C:\Users\Benne\Music\parcel\node_modules\braces\lib\utils.js133427665544934402 0
@@ -1824,7 +1822,7 @@
 57C:\Users\Benne\Music\parcel\node_modules\arg\package.json133427669637328515 0
 54C:\Users\Benne\Music\parcel\node_modules\arg\README.md133427669637599841 0
 58C:\Users\Benne\Music\parcel\node_modules\anymatch\index.js133427669637323440 0
-43C:\Users\Benne\Music\parcel\dist\index.html133428483608917367 0
+43C:\Users\Benne\Music\parcel\dist\index.html133428549132321988 0
 62C:\Users\Benne\Music\parcel\node_modules\anymatch\package.json133427669637452624 0
 70C:\Users\Benne\Music\parcel\node_modules\any-promise\implementation.js133427669637796932 0
 76C:\Users\Benne\Music\parcel\node_modules\any-promise\register\es6-promise.js133427669638334792 0
@@ -1889,6 +1887,7 @@
 76C:\Users\Benne\Music\parcel\node_modules\@jridgewell\trace-mapping\README.md133427669638052404 0
 92C:\Users\Benne\Music\parcel\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js133427669637358585 0
 77C:\Users\Benne\Music\parcel\node_modules\@jridgewell\trace-mapping\dist\types133428100222343874 1
+55C:\Users\Benne\Music\parcel\dist\index.25185edf.css.map133428549132362241 0
 96C:\Users\Benne\Music\parcel\node_modules\@jridgewell\trace-mapping\dist\types\binary-search.d.ts133427669638273915 0
 90C:\Users\Benne\Music\parcel\node_modules\@jridgewell\trace-mapping\dist\types\resolve.d.ts133427669638334792 0
 87C:\Users\Benne\Music\parcel\node_modules\@jridgewell\trace-mapping\dist\types\sort.d.ts133427669638374009 0
@@ -1900,7 +1899,7 @@
 79C:\Users\Benne\Music\parcel\node_modules\@jridgewell\set-array\src\set-array.ts133427669638149177 0
 85C:\Users\Benne\Music\parcel\node_modules\@jridgewell\set-array\dist\set-array.mjs.map133427669637613574 0
 73C:\Users\Benne\Music\parcel\node_modules\@jridgewell\set-array\dist\types133428100221963863 1
-68C:\Users\Benne\Music\parcel\dist\Mulish-ExtraBoldItalic.98e18985.ttf133428483573771444 0
+68C:\Users\Benne\Music\parcel\dist\Mulish-ExtraBoldItalic.98e18985.ttf133428549127774290 0
 72C:\Users\Benne\Music\parcel\node_modules\@jridgewell\resolve-uri\LICENSE133427669637158410 0
 85C:\Users\Benne\Music\parcel\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs133427669637958995 0
 89C:\Users\Benne\Music\parcel\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map133427669637613574 0
@@ -1924,7 +1923,8 @@
 57C:\Users\Benne\Music\parcel\node_modules\.bin\sucrase.cmd133427669643592343 0
 57C:\Users\Benne\Music\parcel\node_modules\.bin\tailwindcss133427669643602352 0
 61C:\Users\Benne\Music\parcel\node_modules\.bin\tailwindcss.ps1133427669643592343 0
-51C:\Users\Benne\Music\parcel\dist\alpha.75b4e7e1.png133428483608409592 0
-54C:\Users\Benne\Music\parcel\dist\fountain.672ae4e1.jpg133428483594870346 0
-50C:\Users\Benne\Music\parcel\dist\index.0d640951.js133428483608917367 0
-54C:\Users\Benne\Music\parcel\dist\index.0d640951.js.map133428483608937377 0
+51C:\Users\Benne\Music\parcel\dist\alpha.75b4e7e1.png133428549127784262 0
+54C:\Users\Benne\Music\parcel\dist\fountain.672ae4e1.jpg133428549127784262 0
+50C:\Users\Benne\Music\parcel\dist\index.0d640951.js133428549132321988 0
+54C:\Users\Benne\Music\parcel\dist\index.0d640951.js.map133428549132342259 0
+51C:\Users\Benne\Music\parcel\dist\index.25185edf.css133428549132321988 0
