@@ -22,3 +22,9 @@
     transition: all 1s;
 
 }
+
+.movein {
+    opacity: 100;
+    translate: 0px -40px;
+    transition: all cubic-bezier(0.215, 0.610, 0.355, 1) 2s;
+}

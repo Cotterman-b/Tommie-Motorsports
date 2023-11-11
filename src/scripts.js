@@ -1,14 +1,22 @@
-let header = {
-    root: document.querySelector(".white-background"),
-    rootMargin: "0px",
-    threshold: 1.0,
-};
+const changeColor = () => {
 
-let observer = new IntersectionObserver(callback, header)
+    const elements = document.querySelectorAll('.stats');
 
-let target = document.querySelector(".navbar")
-navObserver.observe()
-
-function whiteBackground() {
-    target.classList.add("bg-white")
+    const observer = new IntersectionObserver((entries, observer) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('movein')
+                observer.unobserve(entry.target);
+            }
+        });
+        
+    });
+    elements.forEach((element) => {
+        observer.observe(element);
+        
+    });
 }
+    document.addEventListener('DOMContentLoaded', () => {
+        changeColor();
+        
+    });
