@@ -18,3 +18,7 @@
 .w-2screen {
     width: 200vw;
 }
+#navbar {
+    transition: all 1s;
+
+}
