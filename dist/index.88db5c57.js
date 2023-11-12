@@ -1,0 +1,19 @@
+const moveIn = (delay)=>{
+    const elements = document.querySelectorAll(".stats");
+    const observer = new IntersectionObserver((entries, observer)=>{
+        entries.forEach((entry)=>{
+            if (entry.isIntersecting) {
+                entry.target.classList.add("movein");
+                observer.unobserve(entry.target);
+            }
+        });
+    });
+    elements.forEach((element)=>{
+        observer.observe(element);
+    });
+};
+document.addEventListener("DOMContentLoaded", ()=>{
+    moveIn(600);
+});
+
+//# sourceMappingURL=index.88db5c57.js.map
