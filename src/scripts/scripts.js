@@ -1,11 +1,11 @@
-const changeColor = () => {
+const moveIn = (delay) => {
 
     const elements = document.querySelectorAll('.stats');
 
     const observer = new IntersectionObserver((entries, observer) => {
         entries.forEach((entry) => {
             if (entry.isIntersecting) {
-                entry.target.classList.add('movein')
+                entry.target.classList.add('movein')           
                 observer.unobserve(entry.target);
             }
         });
@@ -15,8 +15,8 @@ const changeColor = () => {
         observer.observe(element);
         
     });
-}
+};
     document.addEventListener('DOMContentLoaded', () => {
-        changeColor();
+        moveIn(600);
         
     });

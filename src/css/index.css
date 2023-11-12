@@ -25,6 +25,7 @@
 
 .movein {
     opacity: 100;
-    translate: 0px -40px;
+    translate: 0px -60px;
     transition: all cubic-bezier(0.215, 0.610, 0.355, 1) 2s;
+    transition-delay: 400ms;
 }

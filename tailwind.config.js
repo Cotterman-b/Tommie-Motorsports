@@ -27,7 +27,9 @@ module.exports = {
         20: '.2'
       },
       fontFamily: {
-        'mulish': [ 'MULISH', 'sans-serif']
+        'mulish': [ 'MULISH', 'sans-serif'],
+        'boldfonts': ['Impact,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif' ],
+        'helvbased': ['Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif'],
       },
   },
   plugins: [
