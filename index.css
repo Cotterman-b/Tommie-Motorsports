@@ -1,0 +1,50 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'MULISH';
+    src: url("/public/fonts/Mulish-ExtraBoldItalic.ttf")
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.carArches {
+    src: url("/src/images/fountain.webp")
+}
+
+.w-2screen {
+    width: 200vw;
+}
+#navbar {
+    transition: all 1s;
+}
+
+.trapezoid-clip {
+    clip-path: polygon(0 0, 50% 0, 80% 100%, 0% 100%);
+}
+
+.scalein {
+    scale: 100;
+    transition: scale cubic-bezier(0.215, 0.610, 0.355, 1) 2s;
+}
+
+
+.v-movein {
+    opacity: 100;
+    translate: 0px -60px;
+    transition: all cubic-bezier(0.215, 0.610, 0.355, 1) 2s;
+    transition-delay: 400ms;
+}
+
+
+
+.L2R-movein {
+    opacity: 100;
+    translate: 60px 0px;
+    transition: all cubic-bezier(0.215, 0.610, 0.355, 1) 2s;
+    transition-delay: 400ms;
+}
